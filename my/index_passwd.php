@@ -1,0 +1,56 @@
+<?php 
+include_once("../includes/config.php");
+include_once("../includes/functions.php");
+$action = "no";
+if(isset($_SERVER['QUERY_STRING'])) {
+	parse_str($_SERVER['QUERY_STRING']);
+} 
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Forgot Username/Password</title>
+<style>
+    * td {
+        font-family: ubuntu;
+</style>
+</head>
+<body>
+<br />
+<br />
+<table align="center">
+<?php if($action == "no"){ ?>
+	<form action="index_passwd.php?action=findit<?php echo ((isset($_GET['popup'])) ? "&popup=true" : "")?>" method="post">
+	<tr><td>My <select name="value">
+		<option value="username">Username </option>
+		<option value="email">Email Address</option>
+	           </select> is <input type="text" name="data" size="25"></td></tr>
+	<tr><td>&nbsp;</td></tr>
+	<tr><td align="center"><input class="button" type="submit" name="submit" value="Send Me My Login Information"></td></tr>
+	</form>
+<?php } elseif($action == "findit"){
+	if($_POST['data'] != ""){	
+		// Auto select email if they type it in.
+		if (preg_match("/@/",$_POST['data'])) {
+			$_POST['value'] = "email";
+		}
+		$query = "SELECT name, email, username, passwd 
+					FROM members 
+					WHERE " . $_POST['value'] . " = '" . $_POST['data'] . "'";
+		$result = mysqli_query($db, $query) or die(mysqli_error($db).". $query");
+		if($row = mysqli_fetch_array($result)){
+			$message = "Your login details are.\n\nhttp://".$_SERVER['HTTP_HOST']."\nUsername: " . $row['username'] . "\nPassword: " . $row['passwd'] . "\n\nPlease do not respond to this email.";
+			SendEmail($db, $row['email'],"Lost Password", $message, "Digital Altitude <no-reply@".$_SERVER['HTTP_HOST'].">");
+//			mail($row['email'],"Lost Password",$message,"From: Digital Altitude <no-reply@".$_SERVER['HTTP_HOST'].">");
+?>
+			<tr><td align="center">Your log in information has been sent to: <br /><?php echo $row['email'];?><br /><font>Be sure to check your Spam folder.</font></td></tr>
+	 <?php	} else { ?>
+			<tr><td align="center">We could not locate your login details with the data that you entered. Please try again. <br><br> <a href="javascript:history.go(-1)"  onMouseOver="self.status=document.referrer;return true">Go Back</a></td></tr>
+	<?php } ?>
+<?php } else {?>
+		<tr><td align="center">You must include text to search for. <br><br> <a href="javascript:history.go(-1)"  onMouseOver="self.status=document.referrer;return true">Go Back</a></td></tr>
+	<?php } ?>	 
+<?php } ?>
+</table>
+</body>
+</html>

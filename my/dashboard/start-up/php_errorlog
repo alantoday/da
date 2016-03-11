@@ -1,0 +1,120 @@
+[05-Feb-2016 21:40:48 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[05-Feb-2016 21:40:49 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[06-Feb-2016 09:50:45 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[06-Feb-2016 10:25:10 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[06-Feb-2016 12:48:11 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[06-Feb-2016 15:55:43 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[06-Feb-2016 18:09:49 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[06-Feb-2016 20:08:46 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 09:15:21 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 14:38:23 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 14:39:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 14:39:47 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 15:10:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 16:24:50 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 21:03:07 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[07-Feb-2016 21:43:54 America/Chicago] PHP Notice:  Undefined variable: rediect_lesson in /home/digital/public_html/da/my/includes_my/header.php on line 29
+[10-Feb-2016 20:30:08 America/Chicago] PHP Notice:  Undefined variable: msg in /home/digital/public_html/da/my/includes_my/lesson.php on line 227
+[10-Feb-2016 20:30:08 America/Chicago] PHP Notice:  Undefined variable: overview_res in /home/digital/public_html/da/my/includes_my/lesson.php on line 229
+[10-Feb-2016 20:43:02 America/Chicago] PHP Fatal error:  Call to undefined function WriteDateUS() in /home/digital/public_html/da/my/includes_my/lesson.php on line 234
+[10-Feb-2016 20:44:05 America/Chicago] PHP Notice:  Undefined variable: member_steps_row in /home/digital/public_html/da/my/includes_my/lesson.php on line 210
+[10-Feb-2016 21:11:26 America/Chicago] PHP Notice:  Undefined index: confirm_step in /home/digital/public_html/da/my/includes_my/lesson.php on line 27
+[10-Feb-2016 21:11:33 America/Chicago] PHP Notice:  Undefined index: confirm_step in /home/digital/public_html/da/my/includes_my/lesson.php on line 27
+[10-Feb-2016 21:36:07 America/Chicago] PHP Notice:  Undefined variable: steps_completed in /home/digital/public_html/da/my/includes_my/lesson.php on line 53
+[19-Feb-2016 20:28:35 America/Chicago] PHP Notice:  Undefined variable: lesson in /home/digital/public_html/da/my/dashboard/start-up/start-up_menu.php on line 10
+[19-Feb-2016 21:03:25 America/Chicago] PHP Notice:  Undefined variable: lesson in /home/digital/public_html/da/my/dashboard/start-up/start-up_menu.php on line 10
+[22-Feb-2016 19:17:15 America/Chicago] PHP Warning:  Missing argument 7 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 64 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: color_bg in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 400
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:17:15 America/Chicago] PHP Warning:  Missing argument 7 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 70 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: color_bg in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 400
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:17:15 America/Chicago] PHP Warning:  Missing argument 7 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 76 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: color_bg in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 400
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:17:15 America/Chicago] PHP Warning:  Missing argument 7 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 82 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: color_bg in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 400
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:17:15 America/Chicago] PHP Warning:  Missing argument 7 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 88 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: color_bg in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 400
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:17:15 America/Chicago] PHP Warning:  Missing argument 7 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 94 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: color_bg in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 400
+[22-Feb-2016 19:17:15 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:18:30 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:18:43 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:23:53 America/Chicago] PHP Warning:  Missing argument 8 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 65 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: button_url in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 445
+[22-Feb-2016 19:23:53 America/Chicago] PHP Warning:  Missing argument 8 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 72 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: button_url in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 445
+[22-Feb-2016 19:23:53 America/Chicago] PHP Warning:  Missing argument 8 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 79 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: button_url in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 445
+[22-Feb-2016 19:23:53 America/Chicago] PHP Warning:  Missing argument 8 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 86 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: button_url in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 445
+[22-Feb-2016 19:23:53 America/Chicago] PHP Warning:  Missing argument 8 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 93 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: button_url in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 445
+[22-Feb-2016 19:23:53 America/Chicago] PHP Warning:  Missing argument 8 for MyWriteOverviewStep(), called in /home/digital/public_html/da/my/dashboard/start-up/index.php on line 100 and defined in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 399
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:23:53 America/Chicago] PHP Notice:  Undefined variable: button_url in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 445
+[22-Feb-2016 19:24:10 America/Chicago] PHP Notice:  Undefined variable: bg_color in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 407
+[22-Feb-2016 19:30:29 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 405
+[01-Mar-2016 13:03:45 America/Chicago] PHP Fatal error:  Call to undefined function WriteCoachType() in /home/digital/public_html/da/my/includes_my/lesson.php on line 13
+[01-Mar-2016 13:08:56 America/Chicago] PHP Notice:  Undefined index: coach_id_start-up in /home/digital/public_html/da/my/includes_my/lesson.php on line 321
+[01-Mar-2016 13:09:52 America/Chicago] PHP Notice:  Undefined index: coach_id_start-up in /home/digital/public_html/da/my/includes_my/lesson.php on line 321
+[02-Mar-2016 22:28:16 America/Chicago] PHP Notice:  Undefined index: step_unlocked in /home/digital/public_html/da/includes/functions.php on line 419
+[02-Mar-2016 22:28:17 America/Chicago] PHP Notice:  Undefined index: step_unlocked in /home/digital/public_html/da/includes/functions.php on line 419
+[02-Mar-2016 22:28:22 America/Chicago] PHP Notice:  Undefined index: step_unlocked in /home/digital/public_html/da/includes/functions.php on line 419
+[05-Mar-2016 12:14:20 America/Chicago] PHP Notice:  Undefined variable: DEBUG in /home/digital/public_html/da/my/includes_my/header.php on line 27
+[05-Mar-2016 12:14:21 America/Chicago] PHP Notice:  Undefined variable: DEBUG in /home/digital/public_html/da/my/includes_my/header.php on line 27
+[05-Mar-2016 12:14:24 America/Chicago] PHP Notice:  Undefined variable: DEBUG in /home/digital/public_html/da/my/includes_my/header.php on line 27
+[05-Mar-2016 12:14:25 America/Chicago] PHP Notice:  Undefined variable: DEBUG in /home/digital/public_html/da/my/includes_my/header.php on line 27
+[06-Mar-2016 10:25:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:25:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:25:10 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:26:27 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:35:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:35:45 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:35:53 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:35:58 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:36:05 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:36:09 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:42:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:42:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:43:56 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:44:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:44:27 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:44:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:44:54 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:46:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:52:17 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:52:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:53:00 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:53:05 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:53:11 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:53:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:53:22 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:53:27 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[07-Mar-2016 11:40:06 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/digital/public_html/da/my/includes_my/lesson.php' for inclusion (include_path='.:/usr/local/php53/pear') in /home/digital/public_html/da/my/dashboard/start-up/step-6.php on line 7
+[09-Mar-2016 19:44:04 America/Chicago] PHP Notice:  Undefined index: name in /home/digital/public_html/da/my/includes_my/header.php on line 338
+[09-Mar-2016 19:44:04 America/Chicago] PHP Notice:  Undefined index: name in /home/digital/public_html/da/my/includes_my/header.php on line 338
+[09-Mar-2016 21:05:30 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:06:20 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:07:20 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:07:50 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[10-Mar-2016 12:53:36 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:36 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:37 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:37 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:44 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:44 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:48 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:48 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:54:21 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:54:21 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81

@@ -1,0 +1,8 @@
+[07-Mar-2016 22:38:08 America/Chicago] PHP Notice:  Use of undefined constant INCLUDES_MY - assumed 'INCLUDES_MY' in /home/digital/public_html/da/admin/commissions/search.php on line 379
+[07-Mar-2016 22:38:08 America/Chicago] PHP Warning:  include(INCLUDES_MYfooter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/digital/public_html/da/admin/commissions/search.php on line 379
+[07-Mar-2016 22:38:08 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'INCLUDES_MYfooter.php' for inclusion (include_path='.:/usr/local/php53/pear') in /home/digital/public_html/da/admin/commissions/search.php on line 379
+[07-Mar-2016 22:53:17 America/Chicago] PHP Notice:  Undefined variable: min_pay_sql in /home/digital/public_html/da/includes/functions_comms.php on line 35
+[07-Mar-2016 23:03:53 America/Chicago] PHP Notice:  Undefined variable: meber_id in /home/digital/public_html/da/includes/functions_comms.php on line 196
+[07-Mar-2016 23:03:53 America/Chicago] PHP Notice:  Undefined variable: comm_array in /home/digital/public_html/da/admin/commissions/search.php on line 167
+[07-Mar-2016 23:04:20 America/Chicago] PHP Notice:  Undefined variable: comm_array in /home/digital/public_html/da/admin/commissions/search.php on line 167
+[07-Mar-2016 23:10:42 America/Chicago] PHP Notice:  Undefined variable: comm_array in /home/digital/public_html/da/admin/commissions/search.php on line 167

@@ -1,0 +1,14 @@
+[17-Nov-2015 12:28:28 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes/header.php on line 13
+[17-Nov-2015 12:28:28 America/Chicago] PHP Notice:  Undefined index: gravatar in /home/digital/public_html/da/my/includes/header.php on line 15
+[17-Nov-2015 12:28:28 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes/header.php on line 17
+[17-Nov-2015 12:28:28 America/Chicago] PHP Notice:  Undefined index: pro in /home/digital/public_html/da/my/includes/header.php on line 258
+[17-Nov-2015 12:28:28 America/Chicago] PHP Notice:  Undefined index: asc in /home/digital/public_html/da/my/products/ascend/index.php on line 8
+[21-Nov-2015 15:51:38 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes/header.php on line 14
+[21-Nov-2015 15:51:38 America/Chicago] PHP Notice:  Undefined index: gravatar in /home/digital/public_html/da/my/includes/header.php on line 21
+[21-Nov-2015 15:51:38 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes/header.php on line 23
+[21-Nov-2015 15:51:38 America/Chicago] PHP Notice:  Undefined index: pro in /home/digital/public_html/da/my/includes/header.php on line 285
+[21-Nov-2015 15:51:38 America/Chicago] PHP Notice:  Undefined index: asc in /home/digital/public_html/da/my/products/ascend/index.php on line 8
+[29-Nov-2015 20:28:42 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 17
+[29-Nov-2015 20:28:42 America/Chicago] PHP Notice:  Undefined index: gravatar in /home/digital/public_html/da/my/includes_my/header.php on line 26
+[08-Dec-2015 08:52:53 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 13
+[25-Jan-2016 18:15:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20

@@ -1,0 +1,13 @@
+[18-Feb-2016 21:41:59 America/Chicago] PHP Notice:  Undefined variable: note in /home/digital/public_html/da/my/includes_my/lesson.php on line 85
+[09-Mar-2016 11:45:32 America/Chicago] PHP Notice:  Undefined variable: next_level_url in /home/digital/public_html/da/my/includes_my/header.php on line 32
+[09-Mar-2016 20:40:34 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:40:54 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:41:58 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:42:45 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:43:23 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:44:31 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:44:52 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:46:46 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:18:55 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:19:20 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:20:07 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34

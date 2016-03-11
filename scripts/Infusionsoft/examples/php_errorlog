@@ -1,0 +1,49 @@
+[13-Oct-2015 22:09:17 CST6CDT] PHP Fatal error:  Call to a member function send() on a non-object in /home/digi/public_html/includes/infusionsoft-sdk/Infusionsoft/DataService.php on line 133
+[14-Oct-2015 19:50:56 CST6CDT] PHP Fatal error:  Uncaught [RecordNotFound]Record was not found
+Attempted: 1 time(s).
+  thrown in /home/digi/public_html/includes/Infusionsoft/App.php on line 155
+[12-Nov-2015 21:25:33 CST6CDT] PHP Fatal error:  Uncaught [NoFieldFound]No field found: MtgLead.OpportunityId
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[12-Nov-2015 21:55:00 CST6CDT] PHP Fatal error:  Uncaught [NoFieldAccess]Access denied to field CreditCard.CardNumber
+Attempted: 3 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[03-Dec-2015 23:36:46 CST6CDT] PHP Fatal error:  Uncaught [NoFieldFound]No field found: ContactGroupAssign.Id
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[03-Dec-2015 23:37:12 CST6CDT] PHP Fatal error:  Uncaught [NoFieldAccess]Access denied to field CreditCard.CardNumber
+Attempted: 3 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[03-Dec-2015 23:51:20 CST6CDT] PHP Fatal error:  Uncaught [NoFieldAccess]Access denied to field CreditCard.CardNumber
+Attempted: 3 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[04-Dec-2015 20:04:29 CST6CDT] PHP Fatal error:  Uncaught [NoFieldAccess]Access denied to field CreditCard.CVV2
+Attempted: 3 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[05-Dec-2015 21:31:49 CST6CDT] PHP Fatal error:  Uncaught [NoFieldFound]No field found: RecurringOrderWithContact.HTMLSignature
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[06-Dec-2015 13:01:06 CST6CDT] PHP Fatal error:  Uncaught [NoFieldFound]No field found: MtgLead.OpportunityId
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[27-Jan-2016 22:08:13 CST6CDT] PHP Fatal error:  Uncaught [NoFieldFound]No field found: RecurringOrderWithContact.HTMLSignature
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[20-Feb-2016 19:38:15 CST6CDT] PHP Fatal error:  Uncaught [NoFieldFound]No field found: ContactGroupAssign.Id
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[20-Feb-2016 21:18:54 CST6CDT] PHP Fatal error:  Uncaught [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[20-Feb-2016 21:33:53 CST6CDT] PHP Fatal error:  Uncaught [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[20-Feb-2016 21:33:55 CST6CDT] PHP Fatal error:  Uncaught [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[20-Feb-2016 21:38:47 CST6CDT] PHP Fatal error:  Uncaught [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[20-Feb-2016 21:41:49 CST6CDT] PHP Fatal error:  Uncaught [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155

@@ -1,0 +1,14 @@
+[06-Dec-2015 14:25:59 CST6CDT] PHP Fatal error:  Uncaught Failed to parse XML-RPC request: Failed to parse integer value: 4111111111111111
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[06-Dec-2015 19:09:57 CST6CDT] PHP Catchable fatal error:  Argument 1 passed to Infusionsoft_InvoiceServiceBase::validateCreditCardData() must be an array, string given, called in /home/digital/public_html/da/scripts/Infusionsoft/tests/notAuto_test_InvoiceService_validateCreditCardData.php on line 39 and defined in /home/digital/public_html/da/scripts/Infusionsoft/InvoiceServiceBase.php on line 191
+[06-Dec-2015 19:47:29 CST6CDT] PHP Fatal error:  Call to undefined method Infusionsoft_DataService::add() in /home/digital/public_html/da/scripts/Infusionsoft/tests/notAuto_test_DataService_addCreditCard.php on line 30
+[06-Dec-2015 19:48:08 CST6CDT] PHP Fatal error:  Call to undefined method Infusionsoft_DataService::add() in /home/digital/public_html/da/scripts/Infusionsoft/tests/notAuto_test_DataService_add.php on line 13
+[06-Dec-2015 19:57:19 CST6CDT] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/digital/public_html/da/scripts/Infusionsoft/tests/notAuto_test_DataService_addCreditCard.php on line 30
+[06-Dec-2015 19:57:22 CST6CDT] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/digital/public_html/da/scripts/Infusionsoft/tests/notAuto_test_DataService_addCreditCard.php on line 30
+[06-Dec-2015 20:02:55 CST6CDT] PHP Fatal error:  Uncaught Failed to invoke method add in class com.infusionsoft.api.xmlrpc.XmlRpcDataService: id must be valid
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[06-Dec-2015 20:08:05 CST6CDT] PHP Fatal error:  Uncaught Failed to parse XML-RPC request: Failed to parse integer value: 4111111111111111
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155

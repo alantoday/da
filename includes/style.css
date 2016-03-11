@@ -1,0 +1,91 @@
+/*.dataTable{
+    margin: 0px auto; 
+    border-collapse: collapse;
+}
+.dataTable tbody tr:nth-child(even) {
+    background: #FFFFFF;
+}
+
+.dataTable tbody tr:nth-child(odd) {
+    background: #BDFCC9;
+}
+
+.dataTable td {
+    border : 2px solid #CCCCCC;
+    padding: 1px 5px 1px 5px;
+    border-collapse: collapse;
+}
+.dataTable th {
+	background-color:#CCC;
+}
+
+.dataTable td span{
+    padding:0;
+}
+
+.tleft{
+    text-align:left;
+}
+.tcenter{
+    text-align:center;
+}
+
+.tright{
+    text-align: right;
+}
+
+.nowrap{
+    white-space: nowrap;
+}
+.dataTable form{
+    margin: 0; 
+}
+*/
+
+.dataTable table {
+  font-family: "sans-serif";
+  border:#CCC;
+}
+
+.dataTable caption {
+  text-align: left;
+  color: silver;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 5px;
+}
+
+.dataTable thead {
+  background: SteelBlue;
+  color: white;
+}
+
+.dataTable th,
+td {
+  padding: 5px 10px;
+}
+
+.dataTable tbody tr:nth-child(even) {
+  background: WhiteSmoke;
+}
+
+// .dataTable tbody tr td:nth-child(2) {
+//   text-align:center;
+// }
+
+
+// .dataTable tbody tr td:nth-child(3),
+// .dataTable tbody tr td:nth-child(4) {
+//   text-align: right;
+//  font-family: monospace;
+// }
+
+.dataTable tfoot {
+  background: SeaGreen;
+  color: white;
+  text-align: right;
+}
+
+.dataTable tfoot tr th:last-child {
+  font-family: monospace;
+}

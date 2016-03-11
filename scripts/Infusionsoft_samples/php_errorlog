@@ -1,0 +1,12 @@
+[23-Nov-2015 23:16:46 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[24-Nov-2015 19:53:39 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[26-Nov-2015 14:57:27 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[29-Nov-2015 15:52:48 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[29-Nov-2015 15:52:51 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[30-Nov-2015 14:22:16 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[30-Nov-2015 14:25:24 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[30-Nov-2015 14:44:50 CST6CDT] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 595
+[30-Nov-2015 14:44:50 CST6CDT] PHP Deprecated:  Function ereg() is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 2323
+[30-Nov-2015 14:44:50 CST6CDT] PHP Deprecated:  Function split() is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 2132
+[30-Nov-2015 14:44:50 CST6CDT] PHP Deprecated:  Function eregi() is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 3623
+[30-Nov-2015 14:44:50 CST6CDT] PHP Deprecated:  Function ereg() is deprecated in /home/digital/public_html/da/scripts/Infusionsoft_samples/xmlrpc-2.0/lib/xmlrpc.inc on line 568

@@ -1,0 +1,405 @@
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: popup in /home/digital/public_html/da/admin/members/search_visits.php on line 8
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: search_type in /home/digital/public_html/da/admin/members/search_visits.php on line 17
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: search_field in /home/digital/public_html/da/admin/members/search_visits.php on line 25
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: limit in /home/digital/public_html/da/admin/members/search_visits.php on line 29
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: contains in /home/digital/public_html/da/admin/members/search_visits.php on line 37
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: search_str in /home/digital/public_html/da/admin/members/search_visits.php on line 38
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: contains in /home/digital/public_html/da/admin/members/search_visits.php on line 48
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: search_field in /home/digital/public_html/da/admin/members/search_visits.php on line 50
+[23-Feb-2016 19:54:56 America/Chicago] PHP Notice:  Undefined variable: search_type in /home/digital/public_html/da/admin/members/search_visits.php on line 62
+[23-Feb-2016 19:58:01 America/Chicago] PHP Notice:  Undefined variable: search_type in /home/digital/public_html/da/admin/members/search_visits.php on line 14
+[23-Feb-2016 19:58:01 America/Chicago] PHP Notice:  Undefined variable: search_field in /home/digital/public_html/da/admin/members/search_visits.php on line 22
+[23-Feb-2016 19:58:01 America/Chicago] PHP Notice:  Undefined variable: limit in /home/digital/public_html/da/admin/members/search_visits.php on line 26
+[23-Feb-2016 19:58:01 America/Chicago] PHP Notice:  Undefined variable: contains in /home/digital/public_html/da/admin/members/search_visits.php on line 34
+[23-Feb-2016 19:58:01 America/Chicago] PHP Notice:  Undefined variable: search_str in /home/digital/public_html/da/admin/members/search_visits.php on line 35
+[23-Feb-2016 19:58:01 America/Chicago] PHP Notice:  Undefined index: Search in /home/digital/public_html/da/admin/members/search_visits.php on line 43
+[23-Feb-2016 19:59:03 America/Chicago] PHP Notice:  Undefined variable: limit in /home/digital/public_html/da/admin/members/search_visits.php on line 30
+[23-Feb-2016 19:59:22 America/Chicago] PHP Notice:  Undefined variable: limit in /home/digital/public_html/da/admin/members/search_visits.php on line 30
+[23-Feb-2016 19:59:25 America/Chicago] PHP Notice:  Undefined variable: limit in /home/digital/public_html/da/admin/members/search_visits.php on line 30
+[23-Feb-2016 19:59:47 America/Chicago] PHP Notice:  Undefined variable: limit in /home/digital/public_html/da/admin/members/search_visits.php on line 30
+[23-Feb-2016 19:59:47 America/Chicago] PHP Notice:  Undefined variable: sql_limit in /home/digital/public_html/da/admin/members/search_visits.php on line 70
+[23-Feb-2016 19:59:47 America/Chicago] PHP Notice:  Undefined variable: popup in /home/digital/public_html/da/admin/members/search_visits.php on line 73
+[23-Feb-2016 19:59:47 America/Chicago] PHP Notice:  Undefined variable: limit in /home/digital/public_html/da/admin/members/search_visits.php on line 110
+[23-Feb-2016 20:02:09 America/Chicago] PHP Notice:  Undefined variable: sql_limit in /home/digital/public_html/da/admin/members/search_visits.php on line 73
+[23-Feb-2016 20:02:09 America/Chicago] PHP Warning:  str_replace() expects at least 3 parameters, 2 given in /home/digital/public_html/da/admin/members/search_visits.php on line 99
+[23-Feb-2016 20:03:57 America/Chicago] PHP Notice:  Undefined variable: search_sql in /home/digital/public_html/da/admin/members/search_visits.php on line 72
+[23-Feb-2016 20:11:30 America/Chicago] PHP Notice:  Undefined index: IP in /home/digital/public_html/da/admin/members/search_visits.php on line 151
+[23-Feb-2016 20:12:17 America/Chicago] PHP Notice:  Undefined index: IP in /home/digital/public_html/da/admin/members/search_visits.php on line 151
+[23-Feb-2016 20:12:49 America/Chicago] PHP Notice:  Undefined index: IP in /home/digital/public_html/da/admin/members/search_visits.php on line 151
+[23-Feb-2016 20:12:52 America/Chicago] PHP Notice:  Undefined index: IP in /home/digital/public_html/da/admin/members/search_visits.php on line 151
+[24-Feb-2016 09:39:43 America/Chicago] PHP Notice:  Undefined index: admin_security_id in /home/digital/public_html/da/admin/members/member.php on line 54
+[24-Feb-2016 09:39:43 America/Chicago] PHP Notice:  Undefined index: admin_id in /home/digital/public_html/da/admin/members/member.php on line 60
+[24-Feb-2016 09:44:03 America/Chicago] PHP Notice:  Undefined variable: field in /home/digital/public_html/da/admin/members/member.php on line 60
+[25-Feb-2016 21:41:08 America/Chicago] PHP Notice:  Undefined index: coach_name_strategy in /home/digital/public_html/da/admin/members/member.php on line 193
+[25-Feb-2016 21:50:30 America/Chicago] PHP Notice:  Undefined index: coach_name_strategy in /home/digital/public_html/da/admin/members/member_update.php on line 286
+[25-Feb-2016 21:50:30 America/Chicago] PHP Notice:  Undefined index: coach_username_strategy in /home/digital/public_html/da/admin/members/member_update.php on line 286
+[26-Feb-2016 10:12:21 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 10:12:29 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 10:14:19 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 11:03:32 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 11:07:08 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 11:08:24 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 11:18:16 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 11:46:58 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:03:27 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:04:28 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:13:58 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:18:26 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:18:45 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:20:05 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:20:56 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:21:22 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:26:11 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:27:09 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:27:21 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:27:43 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:30:44 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:41:39 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:41:55 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:44:47 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:57:41 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 12:58:58 America/Chicago] PHP Notice:  Undefined index: coach_startup_initials in /home/digital/public_html/da/admin/members/search.php on line 267
+[26-Feb-2016 14:24:54 America/Chicago] PHP Notice:  Undefined variable: search_sql in /home/digital/public_html/da/admin/members/search_visits.php on line 81
+[26-Feb-2016 14:40:14 America/Chicago] PHP Notice:  Undefined index: coach_id_scale in /home/digital/public_html/da/admin/members/member.php on line 108
+[26-Feb-2016 23:56:48 America/Chicago] PHP Notice:  Undefined variable: coach_sql in /home/digital/public_html/da/admin/members/search.php on line 25
+[26-Feb-2016 23:56:48 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/admin/members/search.php on line 28
+[26-Feb-2016 23:58:01 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/admin/members/search.php on line 25
+[27-Feb-2016 09:28:34 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[27-Feb-2016 10:36:54 America/Chicago] PHP Notice:  Undefined index: coach_id_scale in /home/digital/public_html/da/admin/members/member.php on line 108
+[27-Feb-2016 11:38:03 America/Chicago] PHP Notice:  Undefined index: coach_id_scale in /home/digital/public_html/da/admin/members/member.php on line 108
+[27-Feb-2016 13:16:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[27-Feb-2016 18:48:25 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[28-Feb-2016 13:24:18 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[28-Feb-2016 14:00:08 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[28-Feb-2016 16:21:28 America/Chicago] PHP Notice:  Undefined index: coach_id_scale in /home/digital/public_html/da/admin/members/member.php on line 108
+[29-Feb-2016 00:16:00 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[29-Feb-2016 11:01:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[29-Feb-2016 12:31:58 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[29-Feb-2016 15:03:20 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[29-Feb-2016 15:11:37 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[29-Feb-2016 15:29:20 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[29-Feb-2016 17:06:04 America/Chicago] PHP Warning:  Missing argument 2 for GetRowMember(), called in /home/digital/public_html/da/includes/functions_cp.php on line 42 and defined in /home/digital/public_html/da/includes/functions.php on line 88
+[29-Feb-2016 21:51:36 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/digital/public_html/da/admin/members/member.php on line 420
+[29-Feb-2016 22:06:14 America/Chicago] PHP Fatal error:  Call to undefined function WriteLockedStep() in /home/digital/public_html/da/admin/members/member.php on line 55
+[29-Feb-2016 22:27:11 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_write.php on line 1246
+[29-Feb-2016 22:35:09 America/Chicago] PHP Notice:  Undefined variable: step_locked in /home/digital/public_html/da/admin/members/search.php on line 120
+[29-Feb-2016 23:49:54 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 09:08:58 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 10:14:39 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 10:27:08 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 11:34:09 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 12:57:28 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 14:41:50 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 14:49:21 America/Chicago] PHP Warning:  Missing argument 2 for GetRowMember(), called in /home/digital/public_html/da/includes/functions_cp.php on line 42 and defined in /home/digital/public_html/da/includes/functions.php on line 88
+[01-Mar-2016 14:49:25 America/Chicago] PHP Warning:  Missing argument 2 for GetRowMember(), called in /home/digital/public_html/da/includes/functions_cp.php on line 42 and defined in /home/digital/public_html/da/includes/functions.php on line 88
+[01-Mar-2016 14:49:32 America/Chicago] PHP Warning:  Missing argument 2 for GetRowMember(), called in /home/digital/public_html/da/includes/functions_cp.php on line 42 and defined in /home/digital/public_html/da/includes/functions.php on line 88
+[01-Mar-2016 15:19:45 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 15:22:21 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 15:44:36 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 16:28:15 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 16:36:17 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 18:32:25 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 19:40:52 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 19:42:09 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 19:42:26 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 19:49:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 21:53:02 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[01-Mar-2016 22:59:39 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[01-Mar-2016 23:01:04 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 09:39:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[02-Mar-2016 10:59:23 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[02-Mar-2016 13:31:54 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 13:34:17 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[02-Mar-2016 14:18:27 America/Chicago] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/digital/public_html/da/admin/members/member.php on line 185
+[02-Mar-2016 14:52:15 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 14:55:10 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 16:11:14 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 16:52:14 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[02-Mar-2016 17:13:49 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[02-Mar-2016 18:39:07 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 19:00:16 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 20:21:12 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[02-Mar-2016 21:54:11 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 22:02:30 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 22:38:38 America/Chicago] PHP Notice:  Undefined variable: step in /home/digital/public_html/da/includes/functions_write.php on line 17
+[02-Mar-2016 22:39:33 America/Chicago] PHP Notice:  Undefined variable: step in /home/digital/public_html/da/includes/functions_write.php on line 17
+[02-Mar-2016 22:45:43 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 22:58:30 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[02-Mar-2016 23:51:03 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/admin/members/search.php on line 306
+[03-Mar-2016 08:43:16 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 10:07:56 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 10:44:39 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 11:09:39 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 11:12:41 America/Chicago] PHP Notice:  Undefined variable: contact in /home/digital/public_html/da/includes/functions_email.php on line 26
+[03-Mar-2016 11:12:41 America/Chicago] PHP Notice:  Undefined variable: contact_phone in /home/digital/public_html/da/includes/functions_inf.php on line 350
+[03-Mar-2016 11:12:41 America/Chicago] PHP Warning:  Missing argument 7 for EmailNewMemberCoach(), called in /home/digital/public_html/da/includes/functions_inf.php on line 350 and defined in /home/digital/public_html/da/includes/functions_email.php on line 70
+[03-Mar-2016 11:12:41 America/Chicago] PHP Notice:  Undefined variable: new_member_phone in /home/digital/public_html/da/includes/functions_email.php on line 86
+[03-Mar-2016 11:12:41 America/Chicago] PHP Notice:  Undefined variable: contact_phone in /home/digital/public_html/da/includes/functions_inf.php on line 357
+[03-Mar-2016 11:12:41 America/Chicago] PHP Warning:  Missing argument 6 for EmailNewMemberSponsor(), called in /home/digital/public_html/da/includes/functions_inf.php on line 365 and defined in /home/digital/public_html/da/includes/functions_email.php on line 31
+[03-Mar-2016 11:12:41 America/Chicago] PHP Notice:  Undefined variable: new_member_phone in /home/digital/public_html/da/includes/functions_email.php on line 45
+[03-Mar-2016 11:12:41 America/Chicago] PHP Warning:  Missing argument 7 for EmailNewMemberCoach(), called in /home/digital/public_html/da/includes/functions_inf.php on line 372 and defined in /home/digital/public_html/da/includes/functions_email.php on line 70
+[03-Mar-2016 11:12:41 America/Chicago] PHP Notice:  Undefined variable: new_member_phone in /home/digital/public_html/da/includes/functions_email.php on line 86
+[03-Mar-2016 11:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 11:16:48 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 11:16:58 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 11:17:37 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 11:19:17 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 11:54:54 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 11:55:09 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 12:03:54 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 12:10:19 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 12:24:47 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 12:30:23 America/Chicago] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/digital/public_html/da/admin/members/member.php on line 185
+[03-Mar-2016 12:31:13 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 13:23:02 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 17:29:35 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 17:33:19 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 17:42:18 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 17:42:34 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 18:30:18 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 18:56:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 19:57:41 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 20:18:32 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 20:20:05 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 20:25:19 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 20:25:58 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 21:00:11 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[03-Mar-2016 22:07:28 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[03-Mar-2016 22:09:30 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 01:07:37 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 08:31:42 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 09:20:30 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 09:26:33 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 09:40:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 10:33:20 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 13:53:31 America/Chicago] PHP Notice:  Undefined variable: new_member_first_name in /home/digital/public_html/da/includes/functions_email.php on line 24
+[04-Mar-2016 14:00:52 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 14:15:50 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 14:31:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 15:07:22 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 15:16:48 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 15:20:29 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 16:27:35 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 16:55:32 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 17:19:13 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 18:01:31 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 18:12:51 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 20:26:51 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 21:34:06 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 21:58:05 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[04-Mar-2016 22:52:12 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[04-Mar-2016 23:37:33 America/Chicago] PHP Notice:  Undefined variable: order_by_sql in /home/digital/public_html/da/admin/members/search.php on line 273
+[04-Mar-2016 23:58:15 America/Chicago] PHP Notice:  Undefined index: sponsor_id in /home/digital/public_html/da/admin/members/member.php on line 15
+[05-Mar-2016 00:25:34 America/Chicago] PHP Notice:  Undefined variable: product_csv in /home/digital/public_html/da/admin/members/search.php on line 359
+[05-Mar-2016 00:27:03 America/Chicago] PHP Notice:  Undefined variable: product_csv in /home/digital/public_html/da/admin/members/search.php on line 361
+[05-Mar-2016 00:27:11 America/Chicago] PHP Notice:  Undefined variable: product_csv in /home/digital/public_html/da/admin/members/search.php on line 361
+[05-Mar-2016 09:51:31 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[05-Mar-2016 10:48:37 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[05-Mar-2016 12:01:46 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[05-Mar-2016 12:13:03 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[05-Mar-2016 12:14:24 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[05-Mar-2016 12:14:36 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[05-Mar-2016 12:15:38 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[05-Mar-2016 15:22:53 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[05-Mar-2016 15:43:14 America/Chicago] PHP Notice:  Undefined variable: coach_id_startup in /home/digital/public_html/da/admin/members/member.php on line 112
+[05-Mar-2016 15:43:14 America/Chicago] PHP Notice:  Undefined variable: member_id in /home/digital/public_html/da/admin/members/member.php on line 112
+[05-Mar-2016 16:39:15 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[05-Mar-2016 17:41:03 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[05-Mar-2016 18:01:29 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[06-Mar-2016 12:40:12 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[06-Mar-2016 15:29:39 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[06-Mar-2016 20:22:23 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[06-Mar-2016 20:41:55 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 01:00:56 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 07:51:02 America/Chicago] PHP Notice:  Undefined variable: coach_id_startup in /home/digital/public_html/da/admin/members/member.php on line 112
+[07-Mar-2016 07:51:02 America/Chicago] PHP Notice:  Undefined variable: member_id in /home/digital/public_html/da/admin/members/member.php on line 112
+[07-Mar-2016 08:35:55 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 09:10:26 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 10:05:34 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 10:47:18 America/Chicago] PHP Notice:  Undefined variable: coach_id_startup in /home/digital/public_html/da/admin/members/member.php on line 112
+[07-Mar-2016 10:47:18 America/Chicago] PHP Notice:  Undefined variable: member_id in /home/digital/public_html/da/admin/members/member.php on line 112
+[07-Mar-2016 11:32:45 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 12:15:50 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 12:23:50 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 12:33:30 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 13:23:07 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 13:43:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 13:50:25 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 14:06:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 14:08:58 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 16:26:44 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 16:50:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 17:16:27 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 17:30:51 America/Chicago] PHP Notice:  Undefined variable: coach_id_startup in /home/digital/public_html/da/admin/members/member.php on line 112
+[07-Mar-2016 17:30:51 America/Chicago] PHP Notice:  Undefined variable: member_id in /home/digital/public_html/da/admin/members/member.php on line 112
+[07-Mar-2016 17:43:40 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 17:45:14 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 17:54:09 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 18:01:25 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 18:02:18 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 18:05:42 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 18:52:10 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 19:04:39 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 20:28:40 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 22:17:48 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 22:24:12 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 23:08:38 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 23:17:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[07-Mar-2016 23:19:00 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 23:32:26 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[07-Mar-2016 23:47:57 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 02:14:13 America/Chicago] PHP Notice:  Undefined variable: contact_phone in /home/digital/public_html/da/includes/functions_email.php on line 178
+[08-Mar-2016 02:41:13 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 02:42:50 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 02:58:31 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 08:01:44 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 08:07:26 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 09:17:23 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 09:33:18 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 11:53:47 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 13:09:27 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 14:19:48 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 15:05:05 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 15:15:32 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 15:22:51 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 15:38:34 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 15:42:36 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 17:40:34 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 18:12:33 America/Chicago] PHP Notice:  Undefined variable: contact_phone in /home/digital/public_html/da/includes/functions_email.php on line 178
+[08-Mar-2016 19:22:23 America/Chicago] PHP Notice:  Undefined variable: contact_phone in /home/digital/public_html/da/includes/functions_email.php on line 178
+[08-Mar-2016 19:38:58 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 20:07:41 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:08:14 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:19:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 20:20:46 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[08-Mar-2016 20:21:03 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:21:08 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:21:19 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:21:24 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:21:59 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:27:22 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[08-Mar-2016 20:40:53 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[08-Mar-2016 20:42:11 America/Chicago] PHP Fatal error:  Call to undefined function WriteStepType() in /home/digital/public_html/da/admin/members/member.php on line 56
+[09-Mar-2016 00:03:15 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 00:21:53 America/Chicago] PHP Notice:  Undefined variable: contact_phone in /home/digital/public_html/da/includes/functions_email.php on line 178
+[09-Mar-2016 00:28:10 America/Chicago] PHP Notice:  Undefined variable: contact_phone in /home/digital/public_html/da/includes/functions_email.php on line 178
+[09-Mar-2016 00:30:49 America/Chicago] PHP Notice:  Undefined variable: api in /home/digital/public_html/da/includes/functions_gr.php on line 52
+[09-Mar-2016 00:30:49 America/Chicago] PHP Fatal error:  Call to a member function setContactCampaign() on a non-object in /home/digital/public_html/da/includes/functions_gr.php on line 52
+[09-Mar-2016 00:42:52 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 00:49:59 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 01:01:06 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 01:21:35 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 08:28:34 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 09:07:49 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 09:12:51 America/Chicago] PHP Notice:  Undefined index: tag in /home/digital/public_html/da/admin/members/member_update.php on line 160
+[09-Mar-2016 09:22:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 10:20:47 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 11:43:22 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 11:44:15 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 14:05:25 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 14:07:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 14:08:04 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 14:22:41 America/Chicago] PHP Notice:  Undefined variable: api in /home/digital/public_html/da/includes/functions_gr.php on line 52
+[09-Mar-2016 14:22:41 America/Chicago] PHP Fatal error:  Call to a member function setContactCampaign() on a non-object in /home/digital/public_html/da/includes/functions_gr.php on line 52
+[09-Mar-2016 15:14:39 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 15:36:41 America/Chicago] PHP Notice:  Undefined variable: coach_id_startup in /home/digital/public_html/da/admin/members/member.php on line 112
+[09-Mar-2016 15:36:41 America/Chicago] PHP Notice:  Undefined variable: member_id in /home/digital/public_html/da/admin/members/member.php on line 112
+[09-Mar-2016 16:17:03 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 16:19:36 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 16:28:14 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 16:35:02 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 16:40:03 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 16:43:47 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 16:48:08 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 16:51:08 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 16:52:59 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 18:13:35 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 18:14:39 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 18:15:45 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 18:37:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 19:03:59 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 20:16:38 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[09-Mar-2016 20:27:56 America/Chicago] PHP Notice:  Undefined variable: post_vars in /home/digital/public_html/da/includes/config.php on line 40
+[09-Mar-2016 20:28:16 America/Chicago] PHP Notice:  Undefined index: HTTP_REFERER in /home/digital/public_html/da/includes/config.php on line 40
+[09-Mar-2016 20:28:41 America/Chicago] PHP Notice:  Undefined index: HTTP_REFERER in /home/digital/public_html/da/includes/config.php on line 41
+[09-Mar-2016 20:29:02 America/Chicago] PHP Notice:  Undefined index: HTTP_REFERER in /home/digital/public_html/da/includes/config.php on line 41
+[09-Mar-2016 20:33:37 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:34:11 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:36:01 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:38:41 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:39:26 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 20:41:05 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:01:32 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[09-Mar-2016 21:18:46 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:19:33 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:24:12 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:25:06 America/Chicago] PHP Fatal error:  Call to undefined function jason_encode() in /home/digital/public_html/da/includes/config.php on line 34
+[09-Mar-2016 21:38:29 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 00:31:21 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[10-Mar-2016 07:05:39 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 08:34:46 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 09:20:43 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 09:48:32 America/Chicago] PHP Notice:  Undefined variable: coach_id_startup in /home/digital/public_html/da/admin/members/member.php on line 112
+[10-Mar-2016 09:48:32 America/Chicago] PHP Notice:  Undefined variable: member_id in /home/digital/public_html/da/admin/members/member.php on line 112
+[10-Mar-2016 09:50:47 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 10:14:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 11:11:07 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 11:59:30 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 12:00:37 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 12:46:32 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 13:35:53 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 13:36:05 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[10-Mar-2016 14:39:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 14:50:37 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 14:50:49 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[10-Mar-2016 14:56:43 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 15:56:58 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 111
+[10-Mar-2016 15:57:40 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 111
+[10-Mar-2016 15:58:24 America/Chicago] PHP Notice:  Undefined index: popup_id in /home/digital/public_html/da/admin/members/search.php on line 21
+[10-Mar-2016 15:58:40 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 112
+[10-Mar-2016 15:58:49 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 112
+[10-Mar-2016 15:58:51 America/Chicago] PHP Notice:  Undefined index: popup_id in /home/digital/public_html/da/admin/members/search.php on line 21
+[10-Mar-2016 15:59:04 America/Chicago] PHP Notice:  Undefined index: popup_id in /home/digital/public_html/da/admin/members/search.php on line 21
+[10-Mar-2016 15:59:13 America/Chicago] PHP Notice:  Undefined index: popup_id in /home/digital/public_html/da/admin/members/search.php on line 21
+[10-Mar-2016 16:00:32 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:00:41 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:01:01 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/member_update.php on line 10
+[10-Mar-2016 16:01:11 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:01:18 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:01:20 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[10-Mar-2016 16:04:08 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 16:04:21 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:04:24 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:05:23 America/Chicago] PHP Notice:  Undefined index: $coach_id_setup in /home/digital/public_html/da/admin/members/member.php on line 112
+[10-Mar-2016 16:06:17 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:06:44 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:10:35 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:10:37 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:17:50 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:18:01 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:25:59 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:26:01 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:26:08 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:31:07 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:31:22 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:31:31 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:31:35 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:32:16 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:32:23 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:32:30 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:32:44 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:32:50 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:33:31 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:43:34 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 16:43:41 America/Chicago] PHP Notice:  Undefined variable: popup_id in /home/digital/public_html/da/admin/members/search.php on line 116
+[10-Mar-2016 17:29:44 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 17:33:10 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 17:55:23 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[10-Mar-2016 18:20:13 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 19:36:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 19:51:07 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 19:53:36 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[10-Mar-2016 20:33:13 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20
+[10-Mar-2016 20:33:44 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 20:51:25 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/admin/members/search.php on line 18
+[10-Mar-2016 21:36:38 America/Chicago] PHP Notice:  Undefined index: pg in /home/digital/public_html/da/admin/members/member_login.php on line 20

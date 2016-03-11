@@ -1,0 +1,20 @@
+[29-Feb-2016 23:42:30 America/Chicago] PHP Notice:  Undefined variable: row in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 13
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: book_call in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 30
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: skype in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 43
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: facebook in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 44
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: blog in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 50
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: book_call in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 30
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: skype in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 43
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: facebook in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 44
+[01-Mar-2016 00:18:19 America/Chicago] PHP Notice:  Undefined index: blog in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 50
+[01-Mar-2016 00:20:03 America/Chicago] PHP Warning:  Missing argument 2 for GetRowMemberDetails(), called in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 6 and defined in /home/digital/public_html/da/includes/functions.php on line 146
+[01-Mar-2016 00:20:03 America/Chicago] PHP Warning:  Missing argument 2 for GetRowMemberDetails(), called in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 7 and defined in /home/digital/public_html/da/includes/functions.php on line 146
+[01-Mar-2016 00:24:41 America/Chicago] PHP Notice:  Undefined variable: coach_row in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 38
+[01-Mar-2016 00:24:41 America/Chicago] PHP Notice:  Undefined variable: db in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 71
+[01-Mar-2016 00:24:41 America/Chicago] PHP Notice:  Undefined variable: coach_row in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 71
+[01-Mar-2016 00:24:41 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digital/public_html/da/includes/functions.php on line 97
+[01-Mar-2016 00:24:41 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/digital/public_html/da/includes/functions.php on line 97
+[01-Mar-2016 00:25:21 America/Chicago] PHP Notice:  Undefined variable: coach_row in /home/digital/public_html/da/admin/coaches/welcome-test.php on line 38
+[04-Mar-2016 16:15:18 America/Chicago] PHP Notice:  Undefined index: new_active in /home/digital/public_html/da/admin/coaches/rotators.php on line 120
+[04-Mar-2016 16:15:46 America/Chicago] PHP Notice:  Undefined index: new_active in /home/digital/public_html/da/admin/coaches/rotators.php on line 120
+[04-Mar-2016 22:13:03 America/Chicago] PHP Fatal error:  Cannot redeclare WriteURL() (previously declared in /home/digital/public_html/da/includes/functions_write.php:64) in /home/digital/public_html/da/includes/functions_write.php on line 209

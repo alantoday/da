@@ -1,0 +1,7 @@
+@font-face {
+    font-family: da-font;
+    src: url("/css/Chandstate.otf") format("opentype");
+}
+h6{
+    font-family: 'da-font' !important;
+}

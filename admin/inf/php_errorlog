@@ -1,0 +1,8 @@
+[07-Mar-2016 19:45:13 America/Chicago] PHP Notice:  Undefined variable: pay_amt in /home/digital/public_html/da/admin/inf/payments.php on line 68
+[07-Mar-2016 19:45:13 America/Chicago] PHP Notice:  Undefined variable: sql_amt_sql in /home/digital/public_html/da/admin/inf/payments.php on line 77
+[07-Mar-2016 19:45:25 America/Chicago] PHP Notice:  Undefined variable: sql_amt_sql in /home/digital/public_html/da/admin/inf/payments.php on line 77
+[07-Mar-2016 19:45:39 America/Chicago] PHP Notice:  Undefined variable: pay_amt in /home/digital/public_html/da/admin/inf/payments.php on line 68
+[07-Mar-2016 20:01:32 America/Chicago] PHP Notice:  Undefined index: admin_security_id in /home/digital/public_html/da/admin/inf/payments.php on line 76
+[07-Mar-2016 21:31:16 America/Chicago] PHP Notice:  Undefined variable: sponsor_join_sql in /home/digital/public_html/da/admin/inf/payments.php on line 76
+[10-Mar-2016 12:57:10 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:57:10 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81

@@ -1,0 +1,179 @@
+[24-Feb-2016 07:25:48 America/Chicago] PHP Fatal error:  Uncaught [InvalidParameter]Only subscriptions without an originating id can be deleted. This subscription has an originating id of [305].
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[24-Feb-2016 13:32:37 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[24-Feb-2016 14:37:21 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[24-Feb-2016 14:37:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[24-Feb-2016 14:37:58 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[24-Feb-2016 15:07:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[24-Feb-2016 15:07:56 America/Chicago] PHP Fatal error:  Uncaught [InvalidParameter]Only subscriptions without an originating id can be deleted. This subscription has an originating id of [305].
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[24-Feb-2016 20:16:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[25-Feb-2016 09:33:38 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[25-Feb-2016 09:34:11 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[25-Feb-2016 13:21:31 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order-test.php on line 16
+[25-Feb-2016 13:21:34 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order-test.php on line 16
+[25-Feb-2016 13:21:36 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order-test.php on line 16
+[25-Feb-2016 19:25:49 America/Chicago] PHP Notice:  Undefined index: data in /home/digital/public_html/da/my/index_passwd.php on line 32
+[26-Feb-2016 11:58:48 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[26-Feb-2016 13:05:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[26-Feb-2016 15:13:06 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[26-Feb-2016 17:54:33 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[28-Feb-2016 14:15:16 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[28-Feb-2016 19:54:36 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/digital/public_html/da/my/order-test.php on line 420
+[28-Feb-2016 19:55:12 America/Chicago] PHP Fatal error:  Call to undefined function _WriteTerms() in /home/digital/public_html/da/my/order-test.php on line 353
+[28-Feb-2016 21:08:03 America/Chicago] PHP Notice:  Undefined variable: order_items in /home/digital/public_html/da/my/order-test.php on line 458
+[28-Feb-2016 21:08:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/digital/public_html/da/my/order-test.php on line 458
+[28-Feb-2016 21:08:03 America/Chicago] PHP Notice:  Undefined variable: total_price in /home/digital/public_html/da/my/order-test.php on line 230
+[28-Feb-2016 21:12:02 America/Chicago] PHP Notice:  Undefined variable: sub_plan in /home/digital/public_html/da/my/order-test.php on line 466
+[28-Feb-2016 21:12:02 America/Chicago] PHP Notice:  Undefined variable: res in /home/digital/public_html/da/my/order-test.php on line 62
+[28-Feb-2016 21:13:08 America/Chicago] PHP Notice:  Undefined variable: product_details in /home/digital/public_html/da/my/order-test.php on line 58
+[28-Feb-2016 21:13:38 America/Chicago] PHP Notice:  Undefined offset: 0 in /home/digital/public_html/da/my/order-test.php on line 58
+[28-Feb-2016 21:27:27 America/Chicago] PHP Notice:  Undefined variable: total_price in /home/digital/public_html/da/my/order-test.php on line 59
+[28-Feb-2016 21:27:27 America/Chicago] PHP Notice:  Undefined index: order_description in /home/digital/public_html/da/my/order-test.php on line 60
+[28-Feb-2016 21:27:27 America/Chicago] PHP Notice:  Undefined variable: product_title in /home/digital/public_html/da/my/order-test.php on line 61
+[28-Feb-2016 21:27:27 America/Chicago] PHP Notice:  Undefined variable: product_description in /home/digital/public_html/da/my/order-test.php on line 62
+[28-Feb-2016 21:27:27 America/Chicago] PHP Notice:  Undefined variable: product_img in /home/digital/public_html/da/my/order-test.php on line 63
+[28-Feb-2016 21:30:33 America/Chicago] PHP Notice:  Undefined index: total_price in /home/digital/public_html/da/my/order-test.php on line 62
+[28-Feb-2016 21:30:33 America/Chicago] PHP Notice:  Undefined variable: total_price in /home/digital/public_html/da/my/order-test.php on line 239
+[28-Feb-2016 21:41:35 America/Chicago] PHP Fatal error:  Call to undefined function _WriteOrderForm() in /home/digital/public_html/da/my/order-test.php on line 236
+[28-Feb-2016 21:42:14 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 380
+[28-Feb-2016 21:42:14 America/Chicago] PHP Notice:  Undefined variable: db in /home/digital/public_html/da/my/order-test.php on line 391
+[28-Feb-2016 21:42:14 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digital/public_html/da/my/order-test.php on line 282
+[28-Feb-2016 21:42:14 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/digital/public_html/da/my/order-test.php on line 282
+[28-Feb-2016 21:42:33 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 380
+[28-Feb-2016 21:45:14 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 380
+[28-Feb-2016 21:46:19 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 382
+[28-Feb-2016 21:47:24 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 379
+[28-Feb-2016 21:48:47 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 380
+[28-Feb-2016 21:49:02 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 380
+[28-Feb-2016 21:49:17 America/Chicago] PHP Notice:  Undefined variable: mrow in /home/digital/public_html/da/my/order-test.php on line 379
+[28-Feb-2016 22:05:19 America/Chicago] PHP Notice:  Undefined variable: sub_plan_options in /home/digital/public_html/da/my/order-test.php on line 342
+[28-Feb-2016 22:06:07 America/Chicago] PHP Notice:  Undefined variable: sub_plan_options in /home/digital/public_html/da/my/order-test.php on line 342
+[28-Feb-2016 22:07:40 America/Chicago] PHP Notice:  Undefined variable: sub_plan_options in /home/digital/public_html/da/my/order-test.php on line 346
+[28-Feb-2016 22:07:56 America/Chicago] PHP Notice:  Undefined variable: sub_plan_options in /home/digital/public_html/da/my/order-test.php on line 346
+[29-Feb-2016 12:27:04 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[29-Feb-2016 13:32:47 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[29-Feb-2016 15:34:46 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[29-Feb-2016 22:34:53 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 10:08:29 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 11:03:35 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 11:03:46 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 11:05:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 11:05:22 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 11:06:44 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 11:07:13 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[01-Mar-2016 20:22:30 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[02-Mar-2016 12:03:01 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[02-Mar-2016 12:21:30 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[02-Mar-2016 12:37:23 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 10:50:54 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 20
+[03-Mar-2016 11:18:14 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 11:19:35 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 11:19:39 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/digital/public_html/da/includes/functions_inf.php on line 727
+[03-Mar-2016 13:41:25 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 13:47:03 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 13:47:44 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 13:48:15 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 13:48:27 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 13:49:14 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 13:49:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 14:00:31 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 15:06:54 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 15:56:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 16:46:30 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[03-Mar-2016 20:46:26 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 16
+[04-Mar-2016 03:33:48 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 09:40:42 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 09:49:05 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 12:22:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 12:22:51 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 14:25:57 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 15:41:36 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 20:03:25 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 20:42:21 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 21:29:51 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[04-Mar-2016 23:19:44 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 15
+[05-Mar-2016 10:31:37 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[05-Mar-2016 10:31:38 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[05-Mar-2016 10:32:30 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[05-Mar-2016 10:44:50 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[05-Mar-2016 10:56:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[05-Mar-2016 12:25:31 America/Chicago] PHP Notice:  Undefined index: payment_type in /home/digital/public_html/da/my/order-test.php on line 106
+[05-Mar-2016 12:25:31 America/Chicago] PHP Notice:  Undefined index: cvv in /home/digital/public_html/da/my/order-test.php on line 108
+[05-Mar-2016 13:40:41 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[06-Mar-2016 10:52:30 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:52:39 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:52:50 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 14:09:36 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 10:59:08 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 14:26:24 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 14:28:38 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 14:29:15 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 14:29:27 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 17:01:46 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 23:26:34 America/Chicago] PHP Fatal error:  Uncaught [InvalidParameter]Only subscriptions without an originating id can be deleted. This subscription has an originating id of [309].
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[07-Mar-2016 23:27:52 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[07-Mar-2016 23:28:19 America/Chicago] PHP Fatal error:  Uncaught [InvalidParameter]Only subscriptions without an originating id can be deleted. This subscription has an originating id of [309].
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[07-Mar-2016 23:28:59 America/Chicago] PHP Fatal error:  Uncaught [InvalidParameter]Only subscriptions without an originating id can be deleted. This subscription has an originating id of [309].
+Attempted: 1 time(s).
+  thrown in /home/digital/public_html/da/scripts/Infusionsoft/App.php on line 155
+[08-Mar-2016 00:51:35 America/Chicago] PHP Notice:  Undefined index: inf_sub_plan_id in /home/digital/public_html/da/my/order.php on line 175
+[08-Mar-2016 00:51:35 America/Chicago] PHP Notice:  Undefined index:  in /home/digital/public_html/da/my/order.php on line 175
+[08-Mar-2016 12:02:22 America/Chicago] PHP Notice:  Undefined index:  in /home/digital/public_html/da/my/order.php on line 401
+[08-Mar-2016 12:04:16 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 12:30:22 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 12:31:04 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 12:31:12 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 12:45:16 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 15:46:12 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 18:02:14 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[08-Mar-2016 18:33:58 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[08-Mar-2016 23:09:51 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 23:10:58 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[08-Mar-2016 23:11:50 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 08:46:05 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 09:32:17 America/Chicago] PHP Notice:  Undefined index: product in /home/digital/public_html/da/my/order.php on line 16
+[09-Mar-2016 09:32:17 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 09:32:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digital/public_html/da/my/order.php:16) in /home/digital/public_html/da/my/includes_my/header.php on line 12
+[09-Mar-2016 11:54:47 America/Chicago] PHP Notice:  Undefined index: product in /home/digital/public_html/da/my/order.php on line 16
+[09-Mar-2016 11:54:47 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 14:06:40 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 14:11:27 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 14:12:53 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 16:17:27 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[09-Mar-2016 17:37:57 America/Chicago] PHP Notice:  Undefined index: product in /home/digital/public_html/da/my/order.php on line 16
+[09-Mar-2016 17:37:57 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 18:03:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[09-Mar-2016 18:09:04 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[09-Mar-2016 18:11:18 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 00:36:23 America/Chicago] PHP Notice:  Undefined index: product in /home/digital/public_html/da/my/order.php on line 16
+[10-Mar-2016 00:36:23 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[10-Mar-2016 12:53:33 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:33 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:35 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:35 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:35 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 12:53:36 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:36 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:44 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:44 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:48 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:48 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:54:20 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:54:20 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 15:56:57 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 15:57:02 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 16:02:11 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 16:05:52 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 16:08:07 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 17:55:24 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 19:53:36 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0
+[10-Mar-2016 20:10:29 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[10-Mar-2016 20:26:56 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/order.php on line 18
+[10-Mar-2016 20:26:59 America/Chicago] PHP Notice:  Unknown: Skipping numeric key 0 in Unknown on line 0

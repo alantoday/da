@@ -1,0 +1,44 @@
+[06-Mar-2016 10:26:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:28:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:30:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:32:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:36:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:38:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:42:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:44:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:46:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:48:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:52:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 10:54:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/digital/public_html/da/includes/functions_gr.php on line 158
+[06-Mar-2016 11:46:01 America/Chicago] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/digital/public_html/da/includes/functions_gr.php on line 176
+[07-Mar-2016 22:02:33 America/Chicago] PHP Notice:  Undefined index: 100 in /home/digital/public_html/da/crons/calc_comms_daily.php on line 38
+[09-Mar-2016 16:52:01 America/Chicago] PHP Notice:  Undefined index: 100 in /home/digital/public_html/da/crons/calc_comms_daily.php on line 38
+[10-Mar-2016 12:53:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:53:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:53:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:54:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:54:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:54:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:54:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:54:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:54:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:55:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:55:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:55:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:55:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:55:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:55:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:56:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:56:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:56:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:56:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:56:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:56:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:57:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:57:01 America/Chicago] PHP Notice:  Constant INF_SUB_PRICE_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 80
+[10-Mar-2016 12:57:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81
+[10-Mar-2016 12:57:01 America/Chicago] PHP Notice:  Constant INF_SUB_PLAN_ID_ASP_W already defined in /home/digital/public_html/da/includes/config.php on line 81

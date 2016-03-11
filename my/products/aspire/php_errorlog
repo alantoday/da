@@ -1,0 +1,5 @@
+[07-Nov-2015 23:01:45 America/Chicago] PHP Notice:  Undefined variable: right_h1_text in /home/digital/public_html/da/my/includes/myfunctions.php on line 221
+[07-Nov-2015 23:01:45 America/Chicago] PHP Notice:  Undefined variable: right_h2_text in /home/digital/public_html/da/my/includes/myfunctions.php on line 223
+[07-Nov-2015 23:08:32 America/Chicago] PHP Notice:  Undefined variable: type in /home/digital/public_html/da/my/includes/myfunctions.php on line 166
+[13-Jan-2016 13:27:02 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[13-Jan-2016 13:27:02 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20

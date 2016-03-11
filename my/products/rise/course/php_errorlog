@@ -1,0 +1,58 @@
+[22-Nov-2015 14:22:06 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-17194lgZfzO48xkn1' @ error/constitute.c/ReadImage/550' in /home/digital/public_html/da/my/includes_my/lesson.php:210
+Stack trace:
+#0 /home/digital/public_html/da/my/includes_my/lesson.php(210): Imagick->readimage('[0]')
+#1 /home/digital/public_html/da/my/includes_my/lesson.php(162): _CreatePDFThumbnail('')
+#2 /home/digital/public_html/da/my/products/rise/course/lesson-1.php(7): include('/home/digital/p...')
+#3 {main}
+  thrown in /home/digital/public_html/da/my/includes_my/lesson.php on line 210
+[22-Nov-2015 15:48:20 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-22090XV1ntqUslWkb' @ error/constitute.c/ReadImage/550' in /home/digital/public_html/da/my/includes_my/lesson.php:210
+Stack trace:
+#0 /home/digital/public_html/da/my/includes_my/lesson.php(210): Imagick->readimage('[0]')
+#1 /home/digital/public_html/da/my/includes_my/lesson.php(162): _CreatePDFThumbnail('')
+#2 /home/digital/public_html/da/my/products/rise/course/lesson-1.php(7): include('/home/digital/p...')
+#3 {main}
+  thrown in /home/digital/public_html/da/my/includes_my/lesson.php on line 210
+[22-Nov-2015 15:48:53 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/docs/aspire_example.pdf': No such file or directory @ error/blob.c/OpenBlob/2641' in /home/digital/public_html/da/my/includes_my/lesson.php:210
+Stack trace:
+#0 /home/digital/public_html/da/my/includes_my/lesson.php(210): Imagick->readimage('/docs/aspire_ex...')
+#1 /home/digital/public_html/da/my/includes_my/lesson.php(162): _CreatePDFThumbnail('/docs/aspire_ex...')
+#2 /home/digital/public_html/da/my/products/rise/course/lesson-1.php(7): include('/home/digital/p...')
+#3 {main}
+  thrown in /home/digital/public_html/da/my/includes_my/lesson.php on line 210
+[22-Nov-2015 15:49:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digital/public_html/da/my/includes_my/header.php:184) in /home/digital/public_html/da/my/includes_my/lesson.php on line 212
+[02-Dec-2015 07:30:27 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[04-Dec-2015 15:01:57 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[08-Dec-2015 14:54:27 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 13
+[08-Dec-2015 14:54:29 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 13
+[12-Dec-2015 12:04:46 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[12-Dec-2015 12:11:04 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[12-Dec-2015 21:08:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 13
+[12-Dec-2015 21:08:14 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[13-Dec-2015 07:29:34 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[13-Dec-2015 07:46:14 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[13-Dec-2015 18:44:04 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 13
+[13-Dec-2015 18:48:18 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[14-Dec-2015 09:26:16 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[14-Dec-2015 16:12:39 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 13
+[14-Dec-2015 18:23:50 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[14-Dec-2015 18:32:32 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[15-Dec-2015 00:46:57 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 13
+[17-Dec-2015 10:07:53 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[17-Dec-2015 10:08:11 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[21-Dec-2015 07:38:09 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[21-Dec-2015 21:44:43 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[10-Jan-2016 10:45:52 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[29-Jan-2016 22:41:38 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[30-Jan-2016 12:07:18 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[30-Jan-2016 16:51:49 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[30-Jan-2016 17:36:09 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[30-Jan-2016 20:04:30 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[31-Jan-2016 00:41:24 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[02-Feb-2016 00:32:20 America/Chicago] PHP Notice:  Undefined index: member_id in /home/digital/public_html/da/my/includes_my/header.php on line 20
+[02-Feb-2016 00:32:21 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[04-Feb-2016 17:46:05 America/Chicago] PHP Notice:  Undefined index: ris in /home/digital/public_html/da/my/includes_my/myfunctions.php on line 26
+[06-Mar-2016 02:24:40 America/Chicago] PHP Notice:  Undefined index: coach_id_ in /home/digital/public_html/da/my/includes_my/lesson.php on line 321
+[06-Mar-2016 07:37:35 America/Chicago] PHP Notice:  Undefined index: coach_id_ in /home/digital/public_html/da/my/includes_my/lesson.php on line 321
+[09-Mar-2016 09:50:42 America/Chicago] PHP Notice:  Undefined index: coach_id_ in /home/digital/public_html/da/my/includes_my/lesson.php on line 346
+[09-Mar-2016 16:17:30 America/Chicago] PHP Notice:  Undefined index: coach_id_ in /home/digital/public_html/da/my/includes_my/lesson.php on line 346
+[09-Mar-2016 16:18:03 America/Chicago] PHP Notice:  Undefined index: coach_id_ in /home/digital/public_html/da/my/includes_my/lesson.php on line 346
