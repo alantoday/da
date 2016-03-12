@@ -13,7 +13,7 @@ if (1 || empty($_GET['debug'])) {
 }
 date_default_timezone_set('America/Chicago');
 
-define("DB_HOST", 'localhost'); //The database path, usally a url or localhost
+define("DB_HOST", '192.168.99.100'); //The database path, usally a url or localhost
 define("DB_DATABASE", 'digital_da'); //The database name
 define("DB_USERNAME", 'digital_master'); //The database username
 define("DB_PASSWORD", 'Gooing2Surrf'); //The database password

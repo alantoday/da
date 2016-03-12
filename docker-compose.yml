@@ -1,0 +1,30 @@
+php:  
+  build: .
+  dockerfile: buildfiles/Dockerfile.php-fpm
+  volumes:
+    - .:/home/digital/public_html/da/
+
+web:  
+  build: .
+  dockerfile: buildfiles/Dockerfile.nginx
+  links:
+    - php:fpm
+    - mysql
+  ports:
+    - 80:80
+  volumes:
+    - .:/home/digital/public_html/da/
+    - ./logs/nginx:/var/log/nginx
+
+
+mysql:
+  image: mysql:5.7
+  ports:
+    - "3306:3306"
+  container_name: mysql
+  environment:
+    MYSQL_DATABASE: digital_da
+    MYSQL_USER: digital_master
+    MYSQL_ROOT_PASSWORD: password
+    MYSQL_PASSWORD: Gooing2Surrf
+  privileged: true
